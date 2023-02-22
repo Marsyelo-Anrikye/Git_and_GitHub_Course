@@ -1,7 +1,8 @@
-Testando
+
 Uma
 Atualização
 do 
 Arquivo
 1
 Enviando a funcionalidade X
+Enviando a funcionalidade Y
