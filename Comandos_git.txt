@@ -1,0 +1,9 @@
+Comandos 5º Capítulo
+
+Git Show:
+	* Mostra informações úteis;
+	* Dá informações do branch atual e de seus commits;
+	* As modificações no commit também são exibidas.
+
+Git show <tag>:
+	* Exibe as informações de tags.
